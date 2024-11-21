@@ -1,6 +1,6 @@
 # 🎨 Yene Element Editor
 
-Drag & Drop과 그룹핑 기능을 가진 웹 에디터입니다.
+Drag & Drop과 그룹핑 기능을 가진 Element 에디터 입니다.
 
 ## 🎯 과제 요구사항
 
